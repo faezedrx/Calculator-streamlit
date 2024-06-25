@@ -17,7 +17,7 @@ To run this application, you need to have Python installed on your system. Follo
 
     ```bash
     git clone https://github.com/yourusername/calculator-streamlit.git
-    cd calculator-app
+    cd calculator-streamlit
     ```
 
 2. Create a virtual environment and activate it:
