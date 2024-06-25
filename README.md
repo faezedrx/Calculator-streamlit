@@ -16,7 +16,7 @@ To run this application, you need to have Python installed on your system. Follo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/calculator-app.git
+    git clone https://github.com/yourusername/calculator-streamlit.git
     cd calculator-app
     ```
 
@@ -38,7 +38,7 @@ To run this application, you need to have Python installed on your system. Follo
 To run the application, use the following command:
 
 ```bash
-streamlit run app.py
+streamlit run calculator.py
 ```
 This will start a local server. Open your web browser and navigate to http://localhost:8501 to access the application.
 
