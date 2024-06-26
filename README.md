@@ -118,4 +118,4 @@ You can customize the application by modifying app.py. For example, you can chan
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
 ## 📧 Contact
-If you have any questions or need further assistance, feel free to contact me at faezedrx@gmail.com.
+If you have any questions or need further assistance, feel free to contact me at faezeh.darbeheshti@gmail.com.
